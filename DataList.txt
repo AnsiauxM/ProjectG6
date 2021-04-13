@@ -1,0 +1,9 @@
+1 bend
+2 BodyWeightSquats
+3 BoxingPunchingBag
+4 JugglingBalls
+5 jump
+6 JumpingJack
+7 Lunges
+8 wave1
+9 wave2
