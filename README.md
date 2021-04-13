@@ -9,4 +9,9 @@ https://www.cis.fordham.edu/wisdm/dataset.php
 utilisée dans ce projet :
 https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN
 
+DataList : Nom des différents dossiers de data
 
+Train : Vidéos utilisées pour entrainer l'algorithme
+
+Test : Vidés utlisées pour tester l'algorithme
+ 
