@@ -1,17 +1,17 @@
 # ProjectG6
-This is our project
 
-Projet similaire
-https://github.com/smellslikeml/ActionAI
+Ceci est le projet de reconnaissance de mouvement du corps humain réalisé par le groupe 6, qui est composé de Ansiaux Maxime et de Godfroid Maxime.
 
-Dataset LTSM :
-https://www.cis.fordham.edu/wisdm/dataset.php
-utilisée dans ce projet :
-https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN
+Ce projet a pour objectif de reconnaitre quelque mouvement "sportif" réalisé devant une webcam.
 
-DataList : Nom des différents dossiers de data
+Pour réalisé ce projet nous avons téléchargé une base de données provenant site UCF, nommée UCF101 ainsi qu'une autre base de données trouvée sur internet.
+Nous avons selectionné certains éléments de ces base de données pour créer notre base "Data".
 
-Train : Vidéos utilisées pour entrainer l'algorithme
+Différents fichiers de code se trouvent sur Github, mais le plus important et le plus utile est le fichier nommé "ProjectG6.ipynb" car c'est celui-la qui contient l'ensemble de tous les codes. Les autre fichier .ipynb sont des fichiers qui ont servis pour faire les test des différentes parties du codes.
 
-Test : Vidés utlisées pour tester l'algorithme
+Les fichiers .txt, tel que "Datalist.txt", "Testlist02" etc sont des fichiers texte contenant le noms des vidéos utilisés dans les différentes parties du code.
+
+Les dossiers "Data", "UCF", "DB", "temp" contiennent les différentes images et/ou vidéos utlisées pour le codes. 
+
+
  
